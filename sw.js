@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-5576313c2ae0b7759730.js","1b4603fb8393a44768afb2373abebfaa"],["/commons-6e82eaae3f56c620a9ec.js","425d2df24bee1019bc1c7bb30f3631f6"],["/index.html","7d0b210c56805f08b17d31b6f660fecc"],["/offline-plugin-app-shell-fallback/index.html","36ddb4e6478ffae379f480800a953d08"]];
+var precacheConfig = [["/weiran.co/app-5576313c2ae0b7759730.js","1b4603fb8393a44768afb2373abebfaa"],["/weiran.co/app-d937717a5ef39b3093a8.js","96df4ea222faacb83fec7c9fe2fd2bbd"],["/weiran.co/commons-6e82eaae3f56c620a9ec.js","6a6e35665da84893eeedb1815f706bf7"],["/weiran.co/index.html","920e6f388903603c6ad68c9fd2e1a8a8"],["/weiran.co/offline-plugin-app-shell-fallback/index.html","729749066facdaad74bb7a8ee1ae2de8"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 

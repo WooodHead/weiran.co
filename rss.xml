@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[weiran.co]]></title><description><![CDATA[Weiran Zhang]]></description><link>https://weiran.co</link><generator>RSS for Node</generator><lastBuildDate>Sun, 27 May 2018 13:30:35 GMT</lastBuildDate><item><title><![CDATA[Watch It Later for Apple TV]]></title><description><![CDATA[I had some time off over Christmas, so I decided to scratch an itch I’ve had for a while now. Instapaper  has been my go to place to save…]]></description><link>https://weiran.co/blog/watch-it-later-announcement/</link><guid isPermaLink="false">https://weiran.co/blog/watch-it-later-announcement/</guid><pubDate>Sun, 19 Feb 2017 14:47:00 GMT</pubDate><content:encoded>&lt;p&gt;I had some time off over Christmas, so I decided to scratch an itch I’ve had for a while now.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[weiran.co]]></title><description><![CDATA[Weiran Zhang]]></description><link>https://weiran.co</link><generator>RSS for Node</generator><lastBuildDate>Sun, 27 May 2018 13:40:27 GMT</lastBuildDate><item><title><![CDATA[Watch It Later for Apple TV]]></title><description><![CDATA[I had some time off over Christmas, so I decided to scratch an itch I’ve had for a while now. Instapaper  has been my go to place to save…]]></description><link>https://weiran.co/blog/watch-it-later-announcement/</link><guid isPermaLink="false">https://weiran.co/blog/watch-it-later-announcement/</guid><pubDate>Sun, 19 Feb 2017 14:47:00 GMT</pubDate><content:encoded>&lt;p&gt;I had some time off over Christmas, so I decided to scratch an itch I’ve had for a while now.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://instapaper.com&quot;&gt;Instapaper&lt;/a&gt; has been my go to place to save articles and videos from the web. However only way to watch them on the Apple TV is to accept the dubious experience of using AirPlay. Half the time the video would stop when my iPhone locked, and the other half of the time I had to hold my iPhone and tap the screen every few seconds to keep it awake.&lt;/p&gt;
 &lt;p&gt;I dabbled with the Instapaper API &lt;a href=&quot;https://github.com/weiran/Metropaper&quot;&gt;in the past&lt;/a&gt;, and had the classical programmer thought process of “how hard can it be”.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“1000.0”]&lt;a href=&quot;/watch-it-later&quot;&gt;
+&lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“1000.0”]&lt;a href=&quot;/weiran.co/watch-it-later&quot;&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-c3b2a.png&quot;
+    href=&quot;/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-c3b2a.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -23,12 +23,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; The lovely app icon was made by Paul Wallas. &quot;
         title=&quot;&quot;
-        src=&quot;/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-fb8a0.png&quot;
-        srcset=&quot;/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-1a291.png 148w,
-/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-2bc4a.png 295w,
-/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-fb8a0.png 590w,
-/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-526de.png 885w,
-/static/6dcc6a71-ec80-484a-924f-0505cb7779f5-d66b46dcc0cb0de88435f21e21bb4206-c3b2a.png 1000w&quot;
+        src=&quot;/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-1a291.png 148w,
+/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-2bc4a.png 295w,
+/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-fb8a0.png 590w,
+/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-526de.png 885w,
+/weiran.co/static/10f063bd-65f8-47de-9e23-70a911d3d060-d66b46dcc0cb0de88435f21e21bb4206-c3b2a.png 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -44,7 +44,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -61,14 +61,14 @@
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;f829c46d ad8e 4cd5 9f13 06c4466ff34f&quot;
+        alt=&quot;a867d3b0 1d8d 4d2d 831a 1b4b7c86c5d8&quot;
         title=&quot;&quot;
-        src=&quot;/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-f8fb9.jpg&quot;
-        srcset=&quot;/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-e8976.jpg 148w,
-/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-63df2.jpg 295w,
-/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-f8fb9.jpg 590w,
-/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-85e3d.jpg 885w,
-/static/f829c46d-ad8e-4cd5-9f13-06c4466ff34f-05fa7156e1edd576635342934ce81e41-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-e8976.jpg 148w,
+/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-63df2.jpg 295w,
+/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-f8fb9.jpg 590w,
+/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-85e3d.jpg 885w,
+/weiran.co/static/a867d3b0-1d8d-4d2d-831a-1b4b7c86c5d8-05fa7156e1edd576635342934ce81e41-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -93,7 +93,7 @@ Better: AMD RX460 4GB (W470)&lt;br&gt;
 Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Travelling Light with iOS]]></title><description><![CDATA[[ caption id="" align=“alignnone” width=“3024.0” ]  Beijing Theatre  [ /caption ] It wasn’t long ago that travelling on a trip longer than…]]></description><link>https://weiran.co/blog/2016/6/travelling-light-with-ios/</link><guid isPermaLink="false">https://weiran.co/blog/2016/6/travelling-light-with-ios/</guid><pubDate>Mon, 20 Jun 2016 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“3024.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -112,12 +112,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Beijing Theatre &quot;
         title=&quot;&quot;
-        src=&quot;/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-f8fb9.jpg&quot;
-        srcset=&quot;/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-e8976.jpg 148w,
-/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-63df2.jpg 295w,
-/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-f8fb9.jpg 590w,
-/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-85e3d.jpg 885w,
-/static/100cf6b2-543c-4791-bfb0-112a38b40d3a-b78c74c390ebdcb3d38d99eebe67c7c1-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-e8976.jpg 148w,
+/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-63df2.jpg 295w,
+/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-f8fb9.jpg 590w,
+/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-85e3d.jpg 885w,
+/weiran.co/static/c9ab2f9a-dfdb-40d9-b840-2d97a0db059b-b78c74c390ebdcb3d38d99eebe67c7c1-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -131,7 +131,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“4000.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -150,12 +150,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Afternoon nap in Xi&apos;an &quot;
         title=&quot;&quot;
-        src=&quot;/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-f8fb9.jpg&quot;
-        srcset=&quot;/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-e8976.jpg 148w,
-/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-63df2.jpg 295w,
-/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-f8fb9.jpg 590w,
-/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-85e3d.jpg 885w,
-/static/cd1061d3-c592-41e7-bf46-8794ba93a2ee-18f09759cda2d029ed0877f9b3aba6ee-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-e8976.jpg 148w,
+/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-63df2.jpg 295w,
+/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-f8fb9.jpg 590w,
+/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-85e3d.jpg 885w,
+/weiran.co/static/10c486d7-37b4-425f-9646-c50ce4b99506-18f09759cda2d029ed0877f9b3aba6ee-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -170,7 +170,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“4000.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -189,12 +189,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Xi&apos;an Bell Tower &quot;
         title=&quot;&quot;
-        src=&quot;/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-f8fb9.jpg&quot;
-        srcset=&quot;/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-e8976.jpg 148w,
-/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-63df2.jpg 295w,
-/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-f8fb9.jpg 590w,
-/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-85e3d.jpg 885w,
-/static/34f5feb0-501a-4575-9f7b-3c4d3e41308f-54281af47c7c4397d678ed1f508233cb-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-e8976.jpg 148w,
+/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-63df2.jpg 295w,
+/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-f8fb9.jpg 590w,
+/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-85e3d.jpg 885w,
+/weiran.co/static/19cb1fcf-c634-4273-9711-cad80d6072d3-54281af47c7c4397d678ed1f508233cb-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -211,7 +211,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“4000.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -230,12 +230,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Labrang Monastery  &quot;
         title=&quot;&quot;
-        src=&quot;/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-f8fb9.jpg&quot;
-        srcset=&quot;/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-e8976.jpg 148w,
-/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-63df2.jpg 295w,
-/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-f8fb9.jpg 590w,
-/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-85e3d.jpg 885w,
-/static/ab9da9ca-1dba-4c2c-b5b9-eb452c22b621-53fa3bcc5752ec7454eb8def4d7ccaae-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-e8976.jpg 148w,
+/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-63df2.jpg 295w,
+/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-f8fb9.jpg 590w,
+/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-85e3d.jpg 885w,
+/weiran.co/static/62be2045-8e5a-4c2d-989a-cbe069dfb03b-53fa3bcc5752ec7454eb8def4d7ccaae-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -254,7 +254,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“4095.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -273,12 +273,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Monk&apos;s dwellings at Labrang Monastery &quot;
         title=&quot;&quot;
-        src=&quot;/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-f8fb9.jpg&quot;
-        srcset=&quot;/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-e8976.jpg 148w,
-/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-63df2.jpg 295w,
-/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-f8fb9.jpg 590w,
-/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-85e3d.jpg 885w,
-/static/6924259a-1a03-491c-ba9c-a9a9031fb55f-bf00f6d39a1fca642b61938ee95e2ac0-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-e8976.jpg 148w,
+/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-63df2.jpg 295w,
+/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-f8fb9.jpg 590w,
+/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-85e3d.jpg 885w,
+/weiran.co/static/26c63d4d-391b-4bec-a59d-c9706cb66da1-bf00f6d39a1fca642b61938ee95e2ac0-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -293,7 +293,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“4032.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -312,12 +312,12 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Oasis in the Gobi desert &quot;
         title=&quot;&quot;
-        src=&quot;/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-f8fb9.jpg&quot;
-        srcset=&quot;/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-e8976.jpg 148w,
-/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-63df2.jpg 295w,
-/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-f8fb9.jpg 590w,
-/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-85e3d.jpg 885w,
-/static/5a74fde1-e4ae-422b-97d7-fa5c7be0d761-ac868a5e3e5516df3ff9b70bc85137e2-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-e8976.jpg 148w,
+/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-63df2.jpg 295w,
+/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-f8fb9.jpg 590w,
+/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-85e3d.jpg 885w,
+/weiran.co/static/8418ab24-2a75-4f8a-a0e0-cf5cd8bf5687-ac868a5e3e5516df3ff9b70bc85137e2-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -341,7 +341,7 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“322.0”]&lt;a href=&quot;https://appsto.re/gb/Bt_iab.i&quot;&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/276f6e57-648b-451b-8399-a2fdf7f620b5-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg&quot;
+    href=&quot;/weiran.co/static/f4e55c47-e930-4912-8649-a4e2b4cab000-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -360,10 +360,10 @@ Best: AMD RX470 8GB (W480)&lt;/p&gt;</content:encoded></item><item><title><![CDA
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;  The app icon was graciously made by  Paul Wallas  &quot;
         title=&quot;&quot;
-        src=&quot;/static/276f6e57-648b-451b-8399-a2fdf7f620b5-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg&quot;
-        srcset=&quot;/static/276f6e57-648b-451b-8399-a2fdf7f620b5-3020ce850cc5d4673dc8ff1b64adc383-db34f.jpeg 148w,
-/static/276f6e57-648b-451b-8399-a2fdf7f620b5-3020ce850cc5d4673dc8ff1b64adc383-147fc.jpeg 295w,
-/static/276f6e57-648b-451b-8399-a2fdf7f620b5-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg 322w&quot;
+        src=&quot;/weiran.co/static/f4e55c47-e930-4912-8649-a4e2b4cab000-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg&quot;
+        srcset=&quot;/weiran.co/static/f4e55c47-e930-4912-8649-a4e2b4cab000-3020ce850cc5d4673dc8ff1b64adc383-db34f.jpeg 148w,
+/weiran.co/static/f4e55c47-e930-4912-8649-a4e2b4cab000-3020ce850cc5d4673dc8ff1b64adc383-147fc.jpeg 295w,
+/weiran.co/static/f4e55c47-e930-4912-8649-a4e2b4cab000-3020ce850cc5d4673dc8ff1b64adc383-56982.jpeg 322w&quot;
         sizes=&quot;(max-width: 322px) 100vw, 322px&quot;
       /&gt;
     &lt;/span&gt;
@@ -494,7 +494,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg&quot;
+    href=&quot;/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -513,14 +513,14 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;&quot;
-        src=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg&quot;
-        srcset=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-e8976.jpg 148w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-63df2.jpg 295w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg 590w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-85e3d.jpg 885w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-d1924.jpg 1180w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-9452e.jpg 1770w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg 2048w&quot;
+        src=&quot;/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-e8976.jpg 148w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-63df2.jpg 295w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg 590w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-85e3d.jpg 885w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-d1924.jpg 1180w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-9452e.jpg 1770w,
+/weiran.co/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg 2048w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -546,7 +546,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-c3b2a.png&quot;
+    href=&quot;/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-c3b2a.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -563,14 +563,14 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;d4215551 5fed 431b 9609 1cc7c6d9121a&quot;
+        alt=&quot;1a021d3a 2f95 48c8 b6ae deda3c0773e3&quot;
         title=&quot;&quot;
-        src=&quot;/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-fb8a0.png&quot;
-        srcset=&quot;/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-1a291.png 148w,
-/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-2bc4a.png 295w,
-/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-fb8a0.png 590w,
-/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-526de.png 885w,
-/static/d4215551-5fed-431b-9609-1cc7c6d9121a-cbda8812f21bc965c483e001b09484cb-c3b2a.png 1000w&quot;
+        src=&quot;/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-1a291.png 148w,
+/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-2bc4a.png 295w,
+/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-fb8a0.png 590w,
+/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-526de.png 885w,
+/weiran.co/static/1a021d3a-2f95-48c8-b6ae-deda3c0773e3-cbda8812f21bc965c483e001b09484cb-c3b2a.png 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -585,7 +585,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-a402e.jpg&quot;
+    href=&quot;/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-a402e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -602,14 +602,14 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;f0d1c4ed 7f21 449d a542 02e0e1785f14&quot;
+        alt=&quot;d8c78455 a849 49ee 9374 aca06aa1cd53&quot;
         title=&quot;&quot;
-        src=&quot;/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-f8fb9.jpg&quot;
-        srcset=&quot;/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-e8976.jpg 148w,
-/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-63df2.jpg 295w,
-/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-f8fb9.jpg 590w,
-/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-85e3d.jpg 885w,
-/static/f0d1c4ed-7f21-449d-a542-02e0e1785f14-ce8410225aca972544f92d642646cd43-a402e.jpg 1000w&quot;
+        src=&quot;/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-e8976.jpg 148w,
+/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-63df2.jpg 295w,
+/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-f8fb9.jpg 590w,
+/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-85e3d.jpg 885w,
+/weiran.co/static/d8c78455-a849-49ee-9374-aca06aa1cd53-ce8410225aca972544f92d642646cd43-a402e.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -633,7 +633,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-9b0e7.jpg&quot;
+    href=&quot;/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-9b0e7.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -650,13 +650,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;945f801c 0e79 4eb3 b940 f1ec1bab9e9e&quot;
+        alt=&quot;5831db24 4b58 437f b637 dd97071f9817&quot;
         title=&quot;&quot;
-        src=&quot;/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-f8fb9.jpg&quot;
-        srcset=&quot;/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-e8976.jpg 148w,
-/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-63df2.jpg 295w,
-/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-f8fb9.jpg 590w,
-/static/945f801c-0e79-4eb3-b940-f1ec1bab9e9e-e7d3651e2db34e85b7fac786b27d7361-9b0e7.jpg 600w&quot;
+        src=&quot;/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-e8976.jpg 148w,
+/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-63df2.jpg 295w,
+/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-f8fb9.jpg 590w,
+/weiran.co/static/5831db24-4b58-437f-b637-dd97071f9817-e7d3651e2db34e85b7fac786b27d7361-9b0e7.jpg 600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -674,7 +674,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-e931f.jpg&quot;
+    href=&quot;/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-e931f.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -691,13 +691,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;890c44ca 0915 4097 be1c 92d1b3976386&quot;
+        alt=&quot;934df08f bb90 43d3 8382 9e0644de6eeb&quot;
         title=&quot;&quot;
-        src=&quot;/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-f8fb9.jpg&quot;
-        srcset=&quot;/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-e8976.jpg 148w,
-/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-63df2.jpg 295w,
-/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-f8fb9.jpg 590w,
-/static/890c44ca-0915-4097-be1c-92d1b3976386-2e40b91726c9e5f12b6bd5e17e9d4248-e931f.jpg 794w&quot;
+        src=&quot;/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-e8976.jpg 148w,
+/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-63df2.jpg 295w,
+/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-f8fb9.jpg 590w,
+/weiran.co/static/934df08f-bb90-43d3-8382-9e0644de6eeb-2e40b91726c9e5f12b6bd5e17e9d4248-e931f.jpg 794w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -830,7 +830,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;So VP8 wasn’t as patent unencumbered as Googled claimed back in 2010. It took nearly three years for Google to license those patents, no doubt a difficult task but hopefully one that creates a future for VP8.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gnome founder uses Macs]]></title><description><![CDATA[I wonder if he’ll continue this as a long winded three parter.]]></description><link>https://weiran.co/blog/2013/3/gnome-founder-uses-macs/</link><guid isPermaLink="false">https://weiran.co/blog/2013/3/gnome-founder-uses-macs/</guid><pubDate>Thu, 07 Mar 2013 09:11:15 GMT</pubDate><content:encoded>&lt;p&gt;I wonder if he’ll continue this as a long winded three parter.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Apple's mini lessons]]></title><description><![CDATA[Since the iPhone 3G, Apple has recycled old iPhone models to be the low end model. As Apple produces more of each model, it’s profit margin…]]></description><link>https://weiran.co/blog/2013/3/apples-mini-lessons/</link><guid isPermaLink="false">https://weiran.co/blog/2013/3/apples-mini-lessons/</guid><pubDate>Tue, 05 Mar 2013 14:54:58 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-d9514.png&quot;
+    href=&quot;/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-d9514.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -847,13 +847,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;b85d9b51 4641 4804 a1e4 c9d4481d9e8b&quot;
+        alt=&quot;c1ed2469 80ff 40a3 98f1 4ec62c4809ef&quot;
         title=&quot;&quot;
-        src=&quot;/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-fb8a0.png&quot;
-        srcset=&quot;/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-1a291.png 148w,
-/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-2bc4a.png 295w,
-/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-fb8a0.png 590w,
-/static/b85d9b51-4641-4804-a1e4-c9d4481d9e8b-83f66301753343eca54a02baf2cf03dc-d9514.png 600w&quot;
+        src=&quot;/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-1a291.png 148w,
+/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-2bc4a.png 295w,
+/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-fb8a0.png 590w,
+/weiran.co/static/c1ed2469-80ff-40a3-98f1-4ec62c4809ef-83f66301753343eca54a02baf2cf03dc-d9514.png 600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -878,7 +878,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-c3b2a.png&quot;
+    href=&quot;/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-c3b2a.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -895,14 +895,14 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;f43e4c66 bc5a 4bc8 81b1 289ece954d2f&quot;
+        alt=&quot;a53c871f 3e35 4aaf 83e2 1c1ec8542cba&quot;
         title=&quot;&quot;
-        src=&quot;/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-fb8a0.png&quot;
-        srcset=&quot;/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-1a291.png 148w,
-/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-2bc4a.png 295w,
-/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-fb8a0.png 590w,
-/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-526de.png 885w,
-/static/f43e4c66-bc5a-4bc8-81b1-289ece954d2f-bcc7becba53f5b12cec079e775173dfc-c3b2a.png 1000w&quot;
+        src=&quot;/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-1a291.png 148w,
+/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-2bc4a.png 295w,
+/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-fb8a0.png 590w,
+/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-526de.png 885w,
+/weiran.co/static/a53c871f-3e35-4aaf-83e2-1c1ec8542cba-bcc7becba53f5b12cec079e775173dfc-c3b2a.png 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -917,7 +917,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/hackers-hacker-news-reading/id603503901&quot;&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/88b599c3-87cc-4d73-96b6-1364a353b2ac-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png&quot;
+    href=&quot;/weiran.co/static/a4520d57-ab05-4360-8007-0f0c3813e512-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -934,10 +934,10 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;88b599c3 87cc 4d73 96b6 1364a353b2ac&quot;
+        alt=&quot;a4520d57 ab05 4360 8007 0f0c3813e512&quot;
         title=&quot;&quot;
-        src=&quot;/static/88b599c3-87cc-4d73-96b6-1364a353b2ac-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png&quot;
-        srcset=&quot;/static/88b599c3-87cc-4d73-96b6-1364a353b2ac-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png 135w&quot;
+        src=&quot;/weiran.co/static/a4520d57-ab05-4360-8007-0f0c3813e512-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png&quot;
+        srcset=&quot;/weiran.co/static/a4520d57-ab05-4360-8007-0f0c3813e512-8ee9e8ac3edf25f8c212933b2bb26aac-e3c83.png 135w&quot;
         sizes=&quot;(max-width: 135px) 100vw, 135px&quot;
       /&gt;
     &lt;/span&gt;
@@ -982,7 +982,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;No mention of who they partnered with for the hardware, I would guess Samsung.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Movist]]></title><description><![CDATA[Movist has long been one of my favourite video players for the Mac. The simplicity of it’s interface and it’s speed has kept me from using…]]></description><link>https://weiran.co/blog/2013/2/movist/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/movist/</guid><pubDate>Thu, 21 Feb 2013 13:27:50 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-caca9.png&quot;
+    href=&quot;/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-caca9.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -999,13 +999,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;2acad8f5 8f05 4c38 ba16 d30aa71bef06&quot;
+        alt=&quot;1e9051ca 4852 44de ae4c ce04601a0dd5&quot;
         title=&quot;&quot;
-        src=&quot;/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-fb8a0.png&quot;
-        srcset=&quot;/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-1a291.png 148w,
-/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-2bc4a.png 295w,
-/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-fb8a0.png 590w,
-/static/2acad8f5-8f05-4c38-ba16-d30aa71bef06-993d6bcd683c012e0c78244131d6727a-caca9.png 754w&quot;
+        src=&quot;/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-1a291.png 148w,
+/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-2bc4a.png 295w,
+/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-fb8a0.png 590w,
+/weiran.co/static/1e9051ca-4852-44de-ae4c-ce04601a0dd5-993d6bcd683c012e0c78244131d6727a-caca9.png 754w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1016,7 +1016,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;Movist has long been one of my favourite video players for the Mac. The simplicity of it’s interface and it’s speed has kept me from using &lt;a href=&quot;http://www.videolan.org&quot;&gt;VLC&lt;/a&gt; or &lt;a href=&quot;http://mplayerx.org&quot;&gt;MPlayerX&lt;/a&gt;. I simply perfer the way Movist ‘feels’.&lt;/p&gt;
 &lt;p&gt;The original Movist project is hosted on Google Code, unfortunately there hasn’t been any activity since April 2010. But being open source, Nur Monson has &lt;a href=&quot;https://github.com/samiamwork/Movist/&quot;&gt;forked the project onto GitHub&lt;/a&gt; and resolved the many problems with getting it to build with the latest Xcode and made it a ‘modern’ OS X application, removing reliance on depreciated APIs.&lt;/p&gt;
 &lt;p&gt;Hopefully now that Nur has given the project a solid foundation again, it will once again flourish as an active open source project with an engaged community.&lt;/p&gt;
-&lt;p&gt;If you want to try it out, I’ve built the latest version &lt;a href=&quot;/s/Movist.zip&quot;&gt;which you can download here&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google has killed the Android brand]]></title><description><![CDATA[I have seen the Android brand disappear over time. First, it was the Nexus, then Samsung came with the Galaxy brand, who made Android less…]]></description><link>https://weiran.co/blog/2013/2/google-has-killed-the-android-brand/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/google-has-killed-the-android-brand/</guid><pubDate>Thu, 21 Feb 2013 11:32:36 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;If you want to try it out, I’ve built the latest version &lt;a href=&quot;/weiran.co/s/Movist.zip&quot;&gt;which you can download here&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google has killed the Android brand]]></title><description><![CDATA[I have seen the Android brand disappear over time. First, it was the Nexus, then Samsung came with the Galaxy brand, who made Android less…]]></description><link>https://weiran.co/blog/2013/2/google-has-killed-the-android-brand/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/google-has-killed-the-android-brand/</guid><pubDate>Thu, 21 Feb 2013 11:32:36 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;I have seen the Android brand disappear over time. First, it was the Nexus, then Samsung came with the Galaxy brand, who made Android less relevant. Now, Android is just invisible.&lt;/p&gt;
 &lt;p&gt;I thought Google was losing a war against its partners, but I finally concluded that it cannot be just a coincidence. It is not just a trend. It is a deliberate effort. By Google.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1047,7 +1047,9 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;Without asking permission, Google sends developers the personal details of everyone who buys their app from Google Play.&lt;/p&gt;
 &lt;p&gt;According to Australian developer Dan Nolan, Google sends him the name, suburb and email address of consumers that his app — enough to “track down and harass users who left negative reviews”.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Is anyone really surprised that Google would do this?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The biggest lies of mainstream nutrition]]></title><description><![CDATA[Nutrition is probably one of the least well understood sciences, this piece looks at the biggest misconceptions we’re told by governments…]]></description><link>https://weiran.co/blog/2013/2/the-biggest-lies-of-mainstream-nutrition/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/the-biggest-lies-of-mainstream-nutrition/</guid><pubDate>Tue, 12 Feb 2013 11:22:11 GMT</pubDate><content:encoded>&lt;p&gt;Nutrition is probably one of the least well understood sciences, this piece looks at the biggest misconceptions we’re told by governments, doctors, and food companies.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Translating Samsung’s New York Times story]]></title><description><![CDATA[Jim Dalrymple cuts out the bullshit PR.]]></description><link>https://weiran.co/blog/2013/2/translating-samsungs-new-york-times-story/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/translating-samsungs-new-york-times-story/</guid><pubDate>Tue, 12 Feb 2013 10:50:12 GMT</pubDate><content:encoded>&lt;p&gt;Jim Dalrymple cuts out the bullshit PR.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[An interface should get out of the way, except when it shouldn’t]]></title><description><![CDATA[Design is now so ingrained with taste that it’s quite hard to form partisan arguments, but Rian van der Merwe manages it: Dieter Rams…]]></description><link>https://weiran.co/blog/2013/2/an-interface-should-get-out-of-the-way-except-when-it-shouldnt/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/an-interface-should-get-out-of-the-way-except-when-it-shouldnt/</guid><pubDate>Fri, 08 Feb 2013 16:04:07 GMT</pubDate><content:encoded>&lt;p&gt;Design is now so ingrained with taste that it’s quite hard to form partisan arguments, but Rian van der Merwe manages it:&lt;/p&gt;
+&lt;p&gt;Is anyone really surprised that Google would do this?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The biggest lies of mainstream nutrition]]></title><description><![CDATA[Nutrition is probably one of the least well understood sciences, this piece looks at the biggest misconceptions we’re told by governments…]]></description><link>https://weiran.co/blog/2013/2/the-biggest-lies-of-mainstream-nutrition/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/the-biggest-lies-of-mainstream-nutrition/</guid><pubDate>Tue, 12 Feb 2013 11:22:11 GMT</pubDate><content:encoded>&lt;p&gt;Nutrition is probably one of the least well understood sciences, this piece looks at the biggest misconceptions we’re told by governments, doctors, and food companies.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Translating Samsung’s New York Times story]]></title><description><![CDATA[Jim Dalrymple cuts out the bullshit PR.]]></description><link>https://weiran.co/blog/2013/2/translating-samsungs-new-york-times-story/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/translating-samsungs-new-york-times-story/</guid><pubDate>Tue, 12 Feb 2013 10:50:12 GMT</pubDate><content:encoded>&lt;p&gt;Jim Dalrymple cuts out the bullshit PR.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Surface Pro "sells out"]]></title><description><![CDATA[My local (Northern Virginia) Microsoft store sold out in 15 minutes, which means there wasn’t much to sell. The local Best Buy sold out too…]]></description><link>https://weiran.co/blog/2013/2/surface-pro-sells-out/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/surface-pro-sells-out/</guid><pubDate>Sat, 09 Feb 2013 22:39:17 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;My local (Northern Virginia) Microsoft store sold out in 15 minutes, which means there wasn’t much to sell. The local Best Buy sold out too, but only received one unit. The local Staples received and sold a whopping two units. Selling out on launch day doesn’t mean very much when there isn’t anything to sell in the first place.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[An interface should get out of the way, except when it shouldn’t]]></title><description><![CDATA[Design is now so ingrained with taste that it’s quite hard to form partisan arguments, but Rian van der Merwe manages it: Dieter Rams…]]></description><link>https://weiran.co/blog/2013/2/an-interface-should-get-out-of-the-way-except-when-it-shouldnt/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/an-interface-should-get-out-of-the-way-except-when-it-shouldnt/</guid><pubDate>Fri, 08 Feb 2013 16:04:07 GMT</pubDate><content:encoded>&lt;p&gt;Design is now so ingrained with taste that it’s quite hard to form partisan arguments, but Rian van der Merwe manages it:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dieter Rams formalized his 10 principles of good design and said that “Good design is as little design as possible.” Except that somewhere along the line, we started to believe that “as little design as possible” means “getting out of the way”. It doesn’t.&lt;/p&gt;
 &lt;p&gt;Rams didn’t say that good design disappears completely. “As little design as possible” is not about making things invisible, it’s about “not burdening products with non-essentials”. It’s about making the right choices about what should be there, and what shouldn’t. There is nothing wrong with making the things that are in the product visible, sometimes very much so. Let’s not forget that one Rams’s other principles is that “Good design is aesthetic”.&lt;/p&gt;
@@ -1093,7 +1095,14 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;While I applaud the &lt;a href=&quot;app.ft.com&quot;&gt;Financial Times’ mobile site&lt;/a&gt;, it still doesn’t compare well to a &lt;a href=&quot;http://the-magazine.org&quot;&gt;good native app&lt;/a&gt;. There are issues with the layout, performance, and responsiveness. It is clearly not a native app and rather a HTML web app, so saying it can do everything a native app can do is rather disingenuous.&lt;/p&gt;
 &lt;h2&gt;Utopian future&lt;/h2&gt;
 &lt;p&gt;Berners-Lee promotes his own creations, and he’s well within his rights to. In the long term the web should be protected, but I don’t think it’s as ‘open’ as he claims it to be, most websites we visit are closed source and controlled by corporations.&lt;/p&gt;
-&lt;p&gt;Native apps are just another way to write high performance web apps that run on mobile devices, it solves a problem we have now until we have the capability to solve it in a more cross-platform way in the future.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why Eminem is one of the most impressive lyricists ever]]></title><description><![CDATA[Mike Lombardo explains exactly why Eminem is such a good lyricist.]]></description><link>https://weiran.co/blog/2013/2/why-eminem-is-one-of-the-most-impressive-lyricists-ever/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/why-eminem-is-one-of-the-most-impressive-lyricists-ever/</guid><pubDate>Fri, 01 Feb 2013 13:56:07 GMT</pubDate><content:encoded>&lt;p&gt;Mike Lombardo explains exactly why Eminem is such a good lyricist.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[More on the 'new' Apple TV]]></title><description><![CDATA[An Apple spokesman told TNW that the new Apple TV model is just a in-season silent upgrade: “We sometimes make component changes which…]]></description><link>https://weiran.co/blog/2013/1/more-on-the-new-apple-tv/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/more-on-the-new-apple-tv/</guid><pubDate>Thu, 31 Jan 2013 11:00:38 GMT</pubDate><content:encoded>&lt;p&gt;An Apple spokesman told TNW that the new Apple TV model is just a in-season silent upgrade:&lt;/p&gt;
+&lt;p&gt;Native apps are just another way to write high performance web apps that run on mobile devices, it solves a problem we have now until we have the capability to solve it in a more cross-platform way in the future.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why Eminem is one of the most impressive lyricists ever]]></title><description><![CDATA[Mike Lombardo explains exactly why Eminem is such a good lyricist.]]></description><link>https://weiran.co/blog/2013/2/why-eminem-is-one-of-the-most-impressive-lyricists-ever/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/why-eminem-is-one-of-the-most-impressive-lyricists-ever/</guid><pubDate>Fri, 01 Feb 2013 13:56:07 GMT</pubDate><content:encoded>&lt;p&gt;Mike Lombardo explains exactly why Eminem is such a good lyricist.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What would a 5" iPhone look like?]]></title><description><![CDATA[Marco Arment speculates that a 5” iPhone isn’t as unlikely as it seems, and mocks up how it might look. Why would Apple release this? First…]]></description><link>https://weiran.co/blog/2013/2/what-would-a-5-iphone-look-like/</link><guid isPermaLink="false">https://weiran.co/blog/2013/2/what-would-a-5-iphone-look-like/</guid><pubDate>Fri, 01 Feb 2013 09:50:09 GMT</pubDate><content:encoded>&lt;p&gt;Marco Arment speculates that a 5” iPhone isn’t as unlikely as it seems, and mocks up how it might look.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why would Apple release this?&lt;/p&gt;
+&lt;p&gt;First and foremost, there’s significant demand for larger-screened phones. As much as we make fun of the Galaxy Note, it sells surprisingly well, especially outside of the United States. Other large Android phones sell very well almost everywhere.&lt;/p&gt;
+&lt;p&gt;The iPhone has lost a significant number of sales by buyers either wanting a larger screen or being drawn to how much better the large screens look in stores.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While I agree the iPhone has lost sales because of the lack of a larger model, I don’t know if it’s ‘significant’. I believe Apple haven’t made a larger phone yet because they think the current size is the best they can make and is selling incredibly well.&lt;/p&gt;
+&lt;p&gt;Personally I prefer smaller to larger phones, I even find the iPhone 5 screen slightly too big. But the iPhone is now the only device in the iOS and Mac family not to have more than one screen size.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[More on the 'new' Apple TV]]></title><description><![CDATA[An Apple spokesman told TNW that the new Apple TV model is just a in-season silent upgrade: “We sometimes make component changes which…]]></description><link>https://weiran.co/blog/2013/1/more-on-the-new-apple-tv/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/more-on-the-new-apple-tv/</guid><pubDate>Thu, 31 Jan 2013 11:00:38 GMT</pubDate><content:encoded>&lt;p&gt;An Apple spokesman told TNW that the new Apple TV model is just a in-season silent upgrade:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“We sometimes make component changes which require an updated model number for regulatory approval,” an Apple spokesperson told TNW. “The component changes we made don’t affect product features and Apple TV customers will continue to have the same great user experience.”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1168,7 +1177,9 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;Six hundred million dollars not in the institutional call writers’ pockets. Whereas, if Apple stays put, then runs to $700 after the expiration date, the call writers get the capital gain from the common stock they covered with, AND the entire amount for which they sold the option. And this is only one strike price we calculated - together this is billions of dollars for a two month delay in an Apple surge.&lt;/p&gt;
 &lt;p&gt;But now, however, the gains of the Summer have come back in and Apple’s share price has only to stay flat for the next two months for all those call options to expire worthless. The institutional money managers that wrote those options, if they were to try to manipulate Apple’s share price, have a lot of incentive to keep Apple in place for a short time, then drive it higher.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;So there you have it. There may be some truth in the Wall Street Journal’s claim that Apple has cut orders for iPhone 5 displays, and (going against all previous experience) Tim Cook might have been wrong about iPhone demand. But given that the foundation of this story is &lt;a href=&quot;http://www.businessinsider.com/the-story-thats-killing-apple-today-is-a-month-old-2013-1&quot;&gt;over a month old&lt;/a&gt;, the history of unreliable supply chain rumours, and the huge incentives to manipulate Apple’s stock to keep it low until a few days before the next earnings call, I know which theory I believe.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A history of Apple products]]></title><description><![CDATA[Nice timeline of Apple’s products by Pop Chart Lab.]]></description><link>https://weiran.co/blog/2013/1/a-history-of-apple-products/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/a-history-of-apple-products/</guid><pubDate>Tue, 15 Jan 2013 08:28:34 GMT</pubDate><content:encoded>&lt;p&gt;Nice timeline of Apple’s products by Pop Chart Lab.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Boeing has an aeroplane problem]]></title><description><![CDATA[The 787 Dreamliner has been vexed since its inception. The company was convinced by one or more management consulting firms to outsource…]]></description><link>https://weiran.co/blog/2013/1/boeing-has-an-aeroplane-problem/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/boeing-has-an-aeroplane-problem/</guid><pubDate>Fri, 11 Jan 2013 10:37:36 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;So there you have it. There may be some truth in the Wall Street Journal’s claim that Apple has cut orders for iPhone 5 displays, and (going against all previous experience) Tim Cook might have been wrong about iPhone demand. But given that the foundation of this story is &lt;a href=&quot;http://www.businessinsider.com/the-story-thats-killing-apple-today-is-a-month-old-2013-1&quot;&gt;over a month old&lt;/a&gt;, the history of unreliable supply chain rumours, and the huge incentives to manipulate Apple’s stock to keep it low until a few days before the next earnings call, I know which theory I believe.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A history of Apple products]]></title><description><![CDATA[Nice timeline of Apple’s products by Pop Chart Lab.]]></description><link>https://weiran.co/blog/2013/1/a-history-of-apple-products/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/a-history-of-apple-products/</guid><pubDate>Tue, 15 Jan 2013 08:28:34 GMT</pubDate><content:encoded>&lt;p&gt;Nice timeline of Apple’s products by Pop Chart Lab.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The truth about Aaron Swartz's "crime"]]></title><description><![CDATA[Aaron Swartz was not the super hacker breathlessly described in the Government’s indictment and forensic reports, and his actions did not…]]></description><link>https://weiran.co/blog/2013/1/the-truth-about-aaron-swartzs-crime/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/the-truth-about-aaron-swartzs-crime/</guid><pubDate>Mon, 14 Jan 2013 10:14:56 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Aaron Swartz was not the super hacker breathlessly described in the Government’s indictment and forensic reports, and his actions did not pose a real danger to JSTOR, MIT or the public. He was an intelligent young man who found a loophole that would allow him to download a lot of documents quickly. This loophole was created intentionally by MIT and JSTOR, and was codified contractually in the piles of paperwork turned over during discovery.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Boeing has an aeroplane problem]]></title><description><![CDATA[The 787 Dreamliner has been vexed since its inception. The company was convinced by one or more management consulting firms to outsource…]]></description><link>https://weiran.co/blog/2013/1/boeing-has-an-aeroplane-problem/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/boeing-has-an-aeroplane-problem/</guid><pubDate>Fri, 11 Jan 2013 10:37:36 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;The 787 Dreamliner has been vexed since its inception.&lt;/p&gt;
 &lt;p&gt;The company was convinced by one or more management consulting firms to outsource design and production of the 787’s components. While this idea might make sense for sourcing coffeemakers, it was a nonsense approach to assembling perhaps the most complicated and potentially dangerous machines shy of nuclear reactors.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[A no-nonsense guide to CES]]></title><description><![CDATA[The guys at The Wirecutter have cut out  all the bullshit  from CES and compiled a list of best gadgets in the show into one article.]]></description><link>https://weiran.co/blog/2013/1/a-no-nonsense-guide-to-ces/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/a-no-nonsense-guide-to-ces/</guid><pubDate>Fri, 11 Jan 2013 09:20:22 GMT</pubDate><content:encoded>&lt;p&gt;The guys at The Wirecutter have cut out &lt;a href=&quot;http://www.theverge.com/2013/1/8/3850056/qualcomms-insane-ces-2013-keynote-pictures-tweets&quot;&gt;all the bullshit&lt;/a&gt; from CES and compiled a list of best gadgets in the show into one article.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CNET can't be trusted]]></title><description><![CDATA[Today we found out that CNET writers don’t have the independence from their parent company CBS after they banned them from letting Dish’s…]]></description><link>https://weiran.co/blog/2013/1/cnet-cant-be-trusted/</link><guid isPermaLink="false">https://weiran.co/blog/2013/1/cnet-cant-be-trusted/</guid><pubDate>Fri, 11 Jan 2013 09:11:14 GMT</pubDate><content:encoded>&lt;p&gt;Today we found out that CNET writers don’t have the independence from their parent company CBS after they banned them from letting Dish’s Hopper DVR participate in their best of CES awards.&lt;/p&gt;
@@ -1192,7 +1203,11 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;It’s not just Retina MacBook Pros that have problems with scrolling performance in Safari. The Mac mini I use at work struggles when zoomed in on a complex website like The Verge. The nightly builds are much faster as well.&lt;/p&gt;
 &lt;p&gt;Get the nightly builds from &lt;a href=&quot;http://nightly.webkit.org&quot;&gt;webkit.org&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Brett Terpstra on releasing and marketing your new app]]></title><description><![CDATA[Brett Terpstra offers some sound advice for developers releasing a new app.]]></description><link>https://weiran.co/blog/brett-terpstra-marketing-your-app/</link><guid isPermaLink="false">https://weiran.co/blog/brett-terpstra-marketing-your-app/</guid><pubDate>Mon, 03 Dec 2012 16:11:08 GMT</pubDate><content:encoded>&lt;p&gt;Brett Terpstra offers some sound advice for developers releasing a new app.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Windows 8 — weak on tablets, terrible for PCs]]></title><description><![CDATA[Jakob Nielsen points out many usability problems with Windows 8. It’s sad that I’m not surprised when Microsoft release such a shoddy piece…]]></description><link>https://weiran.co/blog/2012/11/windows-8-weak-on-tablets-terrible-for-pcs/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/windows-8-weak-on-tablets-terrible-for-pcs/</guid><pubDate>Wed, 21 Nov 2012 12:33:55 GMT</pubDate><content:encoded>&lt;p&gt;Jakob Nielsen points out many usability problems with Windows 8.&lt;/p&gt;
 &lt;p&gt;It’s sad that I’m not surprised when Microsoft release such a shoddy piece of software, it seems Windows 8 was built to a deadline.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Never apologize for having an opinion]]></title><description><![CDATA[MG Siegler rightly points out Engadget’s pandering to comment trolls by trying to “remain neutral” on an  editorial post . If being neutral…]]></description><link>https://weiran.co/blog/2012/11/never-apologize-for-having-an-opinion/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/never-apologize-for-having-an-opinion/</guid><pubDate>Tue, 20 Nov 2012 09:54:30 GMT</pubDate><content:encoded>&lt;p&gt;MG Siegler rightly points out Engadget’s pandering to comment trolls by trying to “remain neutral” on an &lt;em&gt;editorial post&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;If being neutral makes you wrong, then you’re not being neutral.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Bond villain's lair: Skyfall's abandoned island]]></title><description><![CDATA[Fascinating article about the abadoned Japanese island of Hashima which was used as the hide out of the new Bond villian.]]></description><link>https://weiran.co/blog/2012/11/the-bond-villains-lair-skyfalls-abandoned-island/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/the-bond-villains-lair-skyfalls-abandoned-island/</guid><pubDate>Thu, 15 Nov 2012 12:11:37 GMT</pubDate><content:encoded>&lt;p&gt;Fascinating article about the abadoned Japanese island of Hashima which was used as the hide out of the new Bond villian.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No compromises]]></title><description><![CDATA[MG Siegler speculates on the reasons for Sinofsky’s departure from Microsoft: Sinofsky was the driving force behind the “no compromise…]]></description><link>https://weiran.co/blog/2012/11/no-compromises/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/no-compromises/</guid><pubDate>Wed, 14 Nov 2012 11:59:14 GMT</pubDate><content:encoded>&lt;p&gt;MG Siegler speculates on the reasons for Sinofsky’s departure from Microsoft:&lt;/p&gt;
+&lt;p&gt;If being neutral makes you wrong, then you’re not being neutral.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Bond villain's lair: Skyfall's abandoned island]]></title><description><![CDATA[Fascinating article about the abadoned Japanese island of Hashima which was used as the hide out of the new Bond villian.]]></description><link>https://weiran.co/blog/2012/11/the-bond-villains-lair-skyfalls-abandoned-island/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/the-bond-villains-lair-skyfalls-abandoned-island/</guid><pubDate>Thu, 15 Nov 2012 12:11:37 GMT</pubDate><content:encoded>&lt;p&gt;Fascinating article about the abadoned Japanese island of Hashima which was used as the hide out of the new Bond villian.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Stop "fixing" font smoothing]]></title><description><![CDATA[Dmitry Fadeyev on the practice of changing the default font smoothing for WebKit for no reason other than misguided aesthetics: Designers…]]></description><link>https://weiran.co/blog/2012/11/stop-fixing-font-smoothing/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/stop-fixing-font-smoothing/</guid><pubDate>Thu, 15 Nov 2012 08:59:29 GMT</pubDate><content:encoded>&lt;p&gt;Dmitry Fadeyev on the practice of changing the default font smoothing for WebKit for no reason other than misguided aesthetics:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Designers, having received a new property to play with, began to use the antialiasing mode everywhere on their text, even for large portions of dark text on light backgrounds. Disabling subpixel rendering made that text look different, more slender and without any hint of subpixel discoloration. Because of this, at first glance, antialiased text appears to look better than its subpixel sibling.&lt;/p&gt;
+&lt;p&gt;But upon closer inspection, antialiased text is always blurrier than subpixel rendered text. This is not a matter of opinion, it’s just how the rendering works. Subpixel rendering utilizes each of the three individual subpixels in every pixel of the screen to smooth out and sharpen the edges of the font. Antialiasing relies on whole pixels only, which effectively reduces its smoothing sharpness by three times.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No compromises]]></title><description><![CDATA[MG Siegler speculates on the reasons for Sinofsky’s departure from Microsoft: Sinofsky was the driving force behind the “no compromise…]]></description><link>https://weiran.co/blog/2012/11/no-compromises/</link><guid isPermaLink="false">https://weiran.co/blog/2012/11/no-compromises/</guid><pubDate>Wed, 14 Nov 2012 11:59:14 GMT</pubDate><content:encoded>&lt;p&gt;MG Siegler speculates on the reasons for Sinofsky’s departure from Microsoft:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Sinofsky was the driving force behind the “no compromise” approach to Windows 8. I believe that approach is at the heart of the ultimate problem with the OS. As two separate halves, Windows 8 and Metro seem fine. As a whole, the OS seems like a schizophrenic mess. Microsoft should have copied the Apple approach with OS X/iOS, keeping them separate and slowly merging them over time by taking the best of both.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1282,7 +1297,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;[caption id=&quot;&quot; align=“alignnone” width=“916.0”]
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-17734.png&quot;
+    href=&quot;/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-17734.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1301,12 +1316,12 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot; Apple Configurator - VPN Settings &quot;
         title=&quot;&quot;
-        src=&quot;/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-fb8a0.png&quot;
-        srcset=&quot;/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-1a291.png 148w,
-/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-2bc4a.png 295w,
-/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-fb8a0.png 590w,
-/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-526de.png 885w,
-/static/dfc4af34-c4d1-4418-bd10-f7aa10ffe63f-f9c68458c72f7955804c9f05b48ed36d-17734.png 916w&quot;
+        src=&quot;/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-fb8a0.png&quot;
+        srcset=&quot;/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-1a291.png 148w,
+/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-2bc4a.png 295w,
+/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-fb8a0.png 590w,
+/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-526de.png 885w,
+/weiran.co/static/526b0d20-29e0-4ab1-b3f5-df3161d2480e-f9c68458c72f7955804c9f05b48ed36d-17734.png 916w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1334,7 +1349,12 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;Samsung has issued a statement that claims this jury verdict is a loss for consumers. But things are more complex than that. There can be no reasonable doubt that Samsung and Google have engaged, and continue to engage, in “copytition” (competing through copying) rather than wholly-independent creation. Somewhere the courts have to draw the line and afford some degree of protection to innovators. I don’t always agree with Apple’s claims, and I don’t like all of Apple’s patents, but the kind of disregard for other companies’ intellectual property that Samsung and Google effectively propose is certainly not the answer.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Why waiting in line is torture]]></title><description><![CDATA[Some years ago, executives at a Houston airport faced a troubling customer-relations issue. Passengers were lodging an inordinate number of…]]></description><link>https://weiran.co/blog/V2h5LXdhaXRpbmct/</link><guid isPermaLink="false">https://weiran.co/blog/V2h5LXdhaXRpbmct/</guid><pubDate>Thu, 23 Aug 2012 22:55:49 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Some years ago, executives at a Houston airport faced a troubling customer-relations issue. Passengers were lodging an inordinate number of complaints about the long waits at baggage claim. In response, the executives increased the number of baggage handlers working that shift. The plan worked: the average wait fell to eight minutes, well within industry benchmarks. But the complaints persisted.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Protocols don't mean much]]></title><description><![CDATA[Dave Winer being right again about tent.io:  “Think of a protocol like a road. You could have a wonderful road. Well paved. Wide lanes…]]></description><link>https://weiran.co/blog/2012/8/protocols-dont-mean-much/</link><guid isPermaLink="false">https://weiran.co/blog/2012/8/protocols-dont-mean-much/</guid><pubDate>Thu, 23 Aug 2012 09:43:44 GMT</pubDate><content:encoded>&lt;p&gt;Dave Winer being right again about tent.io: &lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Twitter blocks Tumblr's "find friends" access too]]></title><description><![CDATA[Marco Arment on Twitter’s blocking of Tumblr “find friends” access Twitter will now only permit large services to add value to Twitter, not…]]></description><link>https://weiran.co/blog/2012/8/twitter-blocks-tumblrs-find-friends-access-too/</link><guid isPermaLink="false">https://weiran.co/blog/2012/8/twitter-blocks-tumblrs-find-friends-access-too/</guid><pubDate>Thu, 23 Aug 2012 09:48:26 GMT</pubDate><content:encoded>&lt;p&gt;Marco Arment on Twitter’s blocking of Tumblr “find friends” access&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Twitter will now only permit large services to add value to Twitter, not get any value from it.   &lt;/p&gt;
+&lt;p&gt;So when Twitter says something like “[developers] will need to work with us” to “identify areas of value” when they get big enough for Twitter to notice, I don’t have high hopes for what “working with us” might actually entail. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Twitter clearly see themselves in a strong enough position to be safe from being disrupted. It’s certainly hard to argue against it.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Protocols don't mean much]]></title><description><![CDATA[Dave Winer being right again about tent.io:  “Think of a protocol like a road. You could have a wonderful road. Well paved. Wide lanes…]]></description><link>https://weiran.co/blog/2012/8/protocols-dont-mean-much/</link><guid isPermaLink="false">https://weiran.co/blog/2012/8/protocols-dont-mean-much/</guid><pubDate>Thu, 23 Aug 2012 09:43:44 GMT</pubDate><content:encoded>&lt;p&gt;Dave Winer being right again about tent.io: &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“Think of a protocol like a road. You could have a wonderful road. Well paved. Wide lanes. Great rest areas. But if it goes from nowhere to nowhere, it’s not going to be very popular, no matter how nice it is”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1350,7 +1370,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;Hopefully there can be a true successor to OAuth 1.0 because the whole request signing process still gives me a headache even after implementing in two different platforms.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[John Siricusa's Review of OS X 10.8 Mountain Lion]]></title><description><![CDATA[John Siricusa writes the only 26,000 word review of OS X Mountain Lion worth reading. Make sure you do.]]></description><link>https://weiran.co/blog/2012/7/john-siricusas-review-of-os-x-108-mountain-lion/</link><guid isPermaLink="false">https://weiran.co/blog/2012/7/john-siricusas-review-of-os-x-108-mountain-lion/</guid><pubDate>Wed, 25 Jul 2012 14:13:16 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-db559.jpg&quot;
+    href=&quot;/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-db559.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1367,13 +1387,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;987a9b3f 96ee 4fc6 93b1 cdda42813224&quot;
+        alt=&quot;a80a56b8 e87e 45b3 ad18 b55adf66f691&quot;
         title=&quot;&quot;
-        src=&quot;/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-f8fb9.jpg&quot;
-        srcset=&quot;/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-e8976.jpg 148w,
-/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-63df2.jpg 295w,
-/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-f8fb9.jpg 590w,
-/static/987a9b3f-96ee-4fc6-93b1-cdda42813224-2e04a03a27501b9a68d48233bce23304-db559.jpg 640w&quot;
+        src=&quot;/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-f8fb9.jpg&quot;
+        srcset=&quot;/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-e8976.jpg 148w,
+/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-63df2.jpg 295w,
+/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-f8fb9.jpg 590w,
+/weiran.co/static/a80a56b8-e87e-45b3-ad18-b55adf66f691-2e04a03a27501b9a68d48233bce23304-db559.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1427,7 +1447,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ba4a0952-00ab-48e6-88aa-3770eac0b83e-2a5e56d5c70782156ea8d54b594e36dc-945ba.png&quot;
+    href=&quot;/weiran.co/static/5c0c7dc4-b1a8-41da-b30d-173f94123514-2a5e56d5c70782156ea8d54b594e36dc-945ba.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1444,12 +1464,12 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;ba4a0952 00ab 48e6 88aa 3770eac0b83e&quot;
+        alt=&quot;5c0c7dc4 b1a8 41da b30d 173f94123514&quot;
         title=&quot;&quot;
-        src=&quot;/static/ba4a0952-00ab-48e6-88aa-3770eac0b83e-2a5e56d5c70782156ea8d54b594e36dc-945ba.png&quot;
-        srcset=&quot;/static/ba4a0952-00ab-48e6-88aa-3770eac0b83e-2a5e56d5c70782156ea8d54b594e36dc-98b2c.png 148w,
-/static/ba4a0952-00ab-48e6-88aa-3770eac0b83e-2a5e56d5c70782156ea8d54b594e36dc-5f8e6.png 295w,
-/static/ba4a0952-00ab-48e6-88aa-3770eac0b83e-2a5e56d5c70782156ea8d54b594e36dc-945ba.png 570w&quot;
+        src=&quot;/weiran.co/static/5c0c7dc4-b1a8-41da-b30d-173f94123514-2a5e56d5c70782156ea8d54b594e36dc-945ba.png&quot;
+        srcset=&quot;/weiran.co/static/5c0c7dc4-b1a8-41da-b30d-173f94123514-2a5e56d5c70782156ea8d54b594e36dc-98b2c.png 148w,
+/weiran.co/static/5c0c7dc4-b1a8-41da-b30d-173f94123514-2a5e56d5c70782156ea8d54b594e36dc-5f8e6.png 295w,
+/weiran.co/static/5c0c7dc4-b1a8-41da-b30d-173f94123514-2a5e56d5c70782156ea8d54b594e36dc-945ba.png 570w&quot;
         sizes=&quot;(max-width: 570px) 100vw, 570px&quot;
       /&gt;
     &lt;/span&gt;
