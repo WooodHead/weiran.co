@@ -76,6 +76,10 @@
       "path---blog-2013-2-this-is-the-first-time-we-have-seen-such-an-extensive-feature-set-in-one-mobile-application-b5c7b97d841fbb1d38c2.js",
       "path---blog-2013-2-this-is-the-first-time-we-have-seen-such-an-extensive-feature-set-in-one-mobile-application-b5c7b97d841fbb1d38c2.js.map"
     ],
+    "path---projects-hackers": [
+      "path---projects-hackers-5a047c6792b0ba04b251.js",
+      "path---projects-hackers-5a047c6792b0ba04b251.js.map"
+    ],
     "path---blog-2013-2-google-chromebook-pixel": [
       "path---blog-2013-2-google-chromebook-pixel-fc0f55b80e5b24f09242.js",
       "path---blog-2013-2-google-chromebook-pixel-fc0f55b80e5b24f09242.js.map"
@@ -445,8 +449,8 @@
       "path---blog-2013-2-the-real-problem-with-bing-9746f7446a456397251f.js.map"
     ],
     "path---index": [
-      "path---index-8cf8c41d3ad41d209c64.js",
-      "path---index-8cf8c41d3ad41d209c64.js.map"
+      "path---index-7575d41bc7e97da422f0.js",
+      "path---index-7575d41bc7e97da422f0.js.map"
     ],
     "path---blog-2013-2-galaxy-vs-android-at-the-superbowl": [
       "path---blog-2013-2-galaxy-vs-android-at-the-superbowl-c8253ff7592eb6477430.js",
@@ -713,9 +717,9 @@
       "path---blog-2013-1-apple-vs-amazon-bizzaro-valuations-revisited-86479c3d5ecd3f9de409.js.map"
     ],
     "app": [
-      "app-f22632fb3bd19e764f03.js",
+      "app-e478c86b5cbc467a588a.js",
       "build-js-styles.css",
-      "app-f22632fb3bd19e764f03.js.map",
+      "app-e478c86b5cbc467a588a.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-2013-1-cnet-cant-be-trusted": [
