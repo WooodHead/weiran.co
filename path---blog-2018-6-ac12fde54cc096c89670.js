@@ -1,0 +1,2 @@
+webpackJsonp([0xb18bc208c2da],{781:function(t,a){t.exports={data:{site:{siteMetadata:{title:"weiran.co",author:"Weiran Zhang"}},markdownRemark:{id:"/Users/weiran/git/weiran/weiran.co/src/pages/blog/2018/6/index.md absPath of file >>> MarkdownRemark",html:"",frontmatter:{title:"",date:null,passthroughUrl:null}}},pathContext:{slug:"/blog/2018/6/",previous:{fields:{slug:"/blog/watch-it-later-announcement/"},frontmatter:{title:"Watch It Later for Apple TV",passthroughUrl:null,type:null}},next:null}}}});
+//# sourceMappingURL=path---blog-2018-6-ac12fde54cc096c89670.js.map
