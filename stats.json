@@ -136,6 +136,10 @@
       "path---blog-2013-2-whos-being-dishonest-with-storage-space-95feb49a2c7f92c41c0d.js",
       "path---blog-2013-2-whos-being-dishonest-with-storage-space-95feb49a2c7f92c41c0d.js.map"
     ],
+    "path---blog-2018-6-gatsby": [
+      "path---blog-2018-6-gatsby-4195511fac9a2f29138c.js",
+      "path---blog-2018-6-gatsby-4195511fac9a2f29138c.js.map"
+    ],
     "path---blog-2012-11-the-ugly-truth": [
       "path---blog-2012-11-the-ugly-truth-52bf117b577c38bf4fbe.js",
       "path---blog-2012-11-the-ugly-truth-52bf117b577c38bf4fbe.js.map"
@@ -449,8 +453,8 @@
       "path---blog-2013-2-the-real-problem-with-bing-9746f7446a456397251f.js.map"
     ],
     "path---index": [
-      "path---index-e7c8ed31fce1a29f2209.js",
-      "path---index-e7c8ed31fce1a29f2209.js.map"
+      "path---index-b1d1bbbd2ef4701a099f.js",
+      "path---index-b1d1bbbd2ef4701a099f.js.map"
     ],
     "path---blog-2013-2-galaxy-vs-android-at-the-superbowl": [
       "path---blog-2013-2-galaxy-vs-android-at-the-superbowl-c8253ff7592eb6477430.js",
@@ -620,10 +624,6 @@
       "path---blog-2014-5-why-does-apple-want-to-buy-beats-992d735f463cbb593b72.js",
       "path---blog-2014-5-why-does-apple-want-to-buy-beats-992d735f463cbb593b72.js.map"
     ],
-    "path---blog-2018-6": [
-      "path---blog-2018-6-9f405a5a6201a576af11.js",
-      "path---blog-2018-6-9f405a5a6201a576af11.js.map"
-    ],
     "path---blog-2013-2-strike-early-and-strike-hard": [
       "path---blog-2013-2-strike-early-and-strike-hard-13e4741092c85c8a8c2d.js",
       "path---blog-2013-2-strike-early-and-strike-hard-13e4741092c85c8a8c2d.js.map"
@@ -709,8 +709,8 @@
       "path---blog-2013-6-new-new-mac-pro-b5d13e7ac9d0e231bd7c.js.map"
     ],
     "path---blog-watch-it-later-announcement": [
-      "path---blog-watch-it-later-announcement-c70c640438bcae3ce136.js",
-      "path---blog-watch-it-later-announcement-c70c640438bcae3ce136.js.map"
+      "path---blog-watch-it-later-announcement-7570530b64c687edd38d.js",
+      "path---blog-watch-it-later-announcement-7570530b64c687edd38d.js.map"
     ],
     "path---blog-2013-2-analysis-of-the-first-ios-6-jailbreak-exploit": [
       "path---blog-2013-2-analysis-of-the-first-ios-6-jailbreak-exploit-2ede087d18c9d80b38a5.js",
@@ -721,9 +721,9 @@
       "path---blog-2013-1-apple-vs-amazon-bizzaro-valuations-revisited-86479c3d5ecd3f9de409.js.map"
     ],
     "app": [
-      "app-def5796e687feb37d0ae.js",
+      "app-18c5292a9bd4acd62154.js",
       "build-js-styles.css",
-      "app-def5796e687feb37d0ae.js.map",
+      "app-18c5292a9bd4acd62154.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-2013-1-cnet-cant-be-trusted": [
